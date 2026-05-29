@@ -30,3 +30,4 @@ point to full-resolution originals.
   — Hugo builds the post list for you.
 - The homepage scrolling hero ("Our imagination / is limitless") is a template
   effect, not content, so it isn't here.
+# playfullabs
