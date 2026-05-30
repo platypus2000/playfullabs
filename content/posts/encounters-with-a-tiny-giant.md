@@ -6,6 +6,9 @@ aliases:
   - "/new-blog-1/2015/11/2/encounters-with-an-11-year-old-indonesian-savante-garde"
 ---
 
+{{< youtube id="3pzIlq7jZzw" >}}  
+<br>
+<br>
 You'd never guess it by glancing at him on the streets. Standing on stage, Joey Alexander looks like any other ordinary middle school kid. Modest in height no more than waist high wearing moppy black hair. Even Joey's thick, blue rimmed glasses seemed slightly too large for his 12-year old face. A native of Indonesia, Joey grew up with his parents in Bali and Jakarta before moving to New York to pursue music full time.
 
 Earlier this year, I had the chance to witness this child prodigy in the live at one of New York City's famed jazz halls. Sitting in the front row at a table directly behind the piano of one of New York City's iconic yet intimate performance venues, I couldn't help but notice the swathe of silver-haired couples sitting behind me. The room was filled to the brim with an occasional smattering of other peering, wide-eyed middle schoolers perched beside enthusiastic parents.

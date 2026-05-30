@@ -13,6 +13,40 @@
     src: url('../../fonts/Brandon_Grotesque_bold.otf') format('truetype');
 }
 
+/*--- This is for the landing/splash/home page ---*/
+
+/* For the profile image */
+.profile img {
+    border-radius: 0 !important;
+    width: 100% !important;
+    height: auto; 
+}
+
+.profile h1 {
+    font-size: clamp(3rem, 10vw, 6rem);
+}
+
+.profile span {
+    font-weight: normal;
+    font-family: 'Brandon-grotesque-regular', sans-serif;
+    color: #7e7c7c;
+}
+
+/* Swap the buttons & social icons (for some reason they put the socials before the buttons??? via adding them to a flex container*/
+.flex-container {
+  display: flex;
+  flex-direction: column; /* Stacks them vertically */
+}
+
+.social-icons {
+  order: 2; /* Higher numbers go lower */
+}
+
+.buttons {
+  order: 1; /* Lower numbers stay on top */
+}
+
+/*--- This is for the main blog post page ---*/
 
 /* From header.css */
 .header-nav a {
@@ -47,7 +81,7 @@
     color: #7565cd;  
 }
 
-/* This is all individual post stuff */
+/*--- This is all individual post stuff ---*/
 
 /* Main header */
 h1 {

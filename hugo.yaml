@@ -2,3 +2,27 @@ baseURL: "https://platypus2000.github.io/playfullabs/"
 locale: en-us
 title: Playfull Labs
 theme: ["PaperMod"]
+params:
+  profileMode:
+    enabled: true
+    title: "PLAYFULL" # optional default will be site title
+    subtitle: "Our imagination is limitless and capable of the fantastic"
+    imageUrl: "/images/home_page_1.png" # optional
+    # imageTitle: "<title of image as alt>" # optional
+    # imageWidth: 200 # custom size
+    # imageHeight: 200 # custom size
+    buttons:
+      - name: Our Story
+        url: "https://github.com/"
+      - name: Blog
+        url: "/playfullabs/posts/"
+      - name: Missives
+        url: "https://github.com/"
+      - name: Contact
+        url: "https://github.com/"
+
+  socialIcons:
+    - name: "FaceBook"
+      url: "https://www.facebook.com/playfull.labs"
+    - name: "Instagram"
+      url: "https://www.instagram.com/playfullabs"
