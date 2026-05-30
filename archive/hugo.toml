@@ -1,0 +1,7 @@
+baseURL = "https://platypus2000.github.io/playfullabs/"
+locale = 'en-us'
+title = 'My New Hugo Project'
+theme = 'PaperMod'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

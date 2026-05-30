@@ -1,0 +1,4 @@
+baseURL: "https://platypus2000.github.io/playfullabs/"
+locale: en-us
+title: Playfull Labs
+theme: ["PaperMod"]

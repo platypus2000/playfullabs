@@ -2,8 +2,7 @@
 title: "A Letter to Our Future’s Futurists"
 date: 2020-05-04
 draft: false
-aliases:
-  - "/new-blog-1/2020/5/4/a-letter-to-our-futures-futurists"
+summary: "Why more moonshot thinking matters: A radical re-education"
 ---
 
 ### **Why more moonshot thinking matters: A radical re-education**

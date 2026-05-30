@@ -1,0 +1,78 @@
+@font-face {
+    font-family: 'Amatic SC';
+    src: url('../../fonts/AmaticSC-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Brandon-grotesque-regular';
+    src: url('../../fonts/Brandon_Grotesque_regular.otf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Brandon-grotesque-bold';
+    src: url('../../fonts/Brandon_Grotesque_bold.otf') format('truetype');
+}
+
+
+/* From header.css */
+.header-nav a {
+  font-family: 'Amatic SC', sans-serif;
+
+  /* Minimum: 2rem (~32px), Preferred: 8% of screen width, Maximum: 4rem (~64px) */
+  font-size: clamp(1rem, 10vw, 3rem);
+
+  /* Space between characters */
+  letter-spacing: 1rem;
+
+ /* Removes bold styling */
+  font-weight: normal;
+
+  color: #8c56c2;
+}
+
+.entry-header h2 {
+    font-family: 'Amatic SC', sans-serif;
+    color: #7565cd; /* color overwritten for some reason??? */
+}
+
+.entry-content p {
+    font-weight: normal;
+    font-family: 'Brandon-grotesque-regular', sans-serif;
+    color: #7e7c7c;
+}
+
+.entry-footer {
+    font-family: 'Amatic SC', sans-serif;
+    font-size: larger !important;
+    color: #7565cd;  
+}
+
+/* This is all individual post stuff */
+
+/* Main header */
+h1 {
+    font-family: 'Amatic SC', sans-serif;
+    color: #7565cd;
+}
+
+/* date */
+.post-meta {
+    font-family: 'Amatic SC', sans-serif;
+    font-size: larger;
+    color: #7565cd;  
+}
+
+/* 2nd header/summary */
+h3 {
+    font-weight: normal;
+    font-family: 'Brandon-grotesque-regular', sans-serif;
+    font-size: 1.15rem !important;
+    color: #7565cd;
+}
+
+/* Content */
+.post-content {
+    font-weight: normal;
+    font-family: 'Brandon-grotesque-regular', sans-serif;
+    color: #7e7c7c;
+}

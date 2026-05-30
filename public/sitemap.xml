@@ -3,50 +3,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/a-letter-to-our-futures-futurists/</loc>
+    <loc>http://localhost:1313/playfullabs/posts/a-letter-to-our-futures-futurists/</loc>
     <lastmod>2020-05-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/playfullabs/</loc>
     <lastmod>2020-05-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://localhost:1313/playfullabs/posts/</loc>
     <lastmod>2020-05-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/design-re-imagined/</loc>
+    <loc>http://localhost:1313/playfullabs/posts/design-re-imagined/</loc>
     <lastmod>2018-04-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/a-world-of-joy-and-colored-pencils/</loc>
+    <loc>http://localhost:1313/playfullabs/posts/a-world-of-joy-and-colored-pencils/</loc>
     <lastmod>2017-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/tenacity-of-an-entrepreneurial-spirit/</loc>
+    <loc>http://localhost:1313/playfullabs/posts/tenacity-of-an-entrepreneurial-spirit/</loc>
     <lastmod>2017-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/intersecting-theatrics-and-gameplay/</loc>
+    <loc>http://localhost:1313/playfullabs/posts/intersecting-theatrics-and-gameplay/</loc>
     <lastmod>2016-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/david-bowie-heroes-of-invention/</loc>
+    <loc>http://localhost:1313/playfullabs/posts/david-bowie-heroes-of-invention/</loc>
     <lastmod>2016-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/sliced-bread-and-bananas/</loc>
+    <loc>http://localhost:1313/playfullabs/posts/sliced-bread-and-bananas/</loc>
     <lastmod>2016-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/encounters-with-a-tiny-giant/</loc>
+    <loc>http://localhost:1313/playfullabs/posts/encounters-with-a-tiny-giant/</loc>
     <lastmod>2015-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/sifting-the-silence-a-sarajevo-story/</loc>
+    <loc>http://localhost:1313/playfullabs/posts/sifting-the-silence-a-sarajevo-story/</loc>
     <lastmod>2015-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/feetprints-r-us/</loc>
+    <loc>http://localhost:1313/playfullabs/posts/feetprints-r-us/</loc>
     <lastmod>2014-10-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/playfullabs/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
-  </url><url>
-    <loc>http://localhost:1313/missives/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-  </url><url>
-    <loc>http://localhost:1313/together/</loc>
+    <loc>http://localhost:1313/playfullabs/tags/</loc>
   </url>
 </urlset>
