@@ -6,6 +6,7 @@ title: "If Tickled by our cabinet of curiosities..."
 
 {{< center >}} 
 Paper airplanes or queries welcome: stephanie@playfullabs.com
-
+{{< /center >}}
+{{< center >}} 
 Roving global HQ. Catch us if you can :)
 {{< /center >}}

@@ -22,7 +22,21 @@ params:
         url: "/playfullabs/missives/"
       - name: Contact
         url: "/playfullabs/contact_us/"
-
+menu:
+  main:
+    - identifier: story
+      name: Story
+      url: /our_story/
+      weight: 10
+    - identifier: posts
+      name: Blog
+      url: /posts/
+      weight: 20
+    - identifier: contact
+      name: Contact
+      url: /contact_us/
+      weight: 30
+  
   socialIcons:
     - name: "FaceBook"
       url: "https://www.facebook.com/playfull.labs"
