@@ -2,7 +2,9 @@ baseURL: "https://platypus2000.github.io/playfullabs/"
 locale: en-us
 title: Playfull Labs
 theme: ["PaperMod"]
+enableEmoji: true
 params:
+  defaultAppearance: "light" # valid options: light or dark
   profileMode:
     enabled: true
     title: "PLAYFULL" # optional default will be site title
@@ -13,16 +15,18 @@ params:
     # imageHeight: 200 # custom size
     buttons:
       - name: Our Story
-        url: "https://github.com/"
+        url: "/playfullabs/our_story/"
       - name: Blog
         url: "/playfullabs/posts/"
       - name: Missives
-        url: "https://github.com/"
+        url: "/playfullabs/missives/"
       - name: Contact
-        url: "https://github.com/"
+        url: "/playfullabs/contact_us/"
 
   socialIcons:
     - name: "FaceBook"
       url: "https://www.facebook.com/playfull.labs"
     - name: "Instagram"
       url: "https://www.instagram.com/playfullabs"
+    - name: "Bio.site"
+      url: https://bio.site/StephanieLowe?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAdGRzdgSSrKlleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAafD5QIIhva3MIc56ex8R1xWkiAHL9SegIRggSfSn96RCdeAiP5fk1390UzlUQ_aem_YWdncwCFKSjsCmGuZYB-Q1smVh7i&brid=YWdncwFZtc_386P_kbCDV5-ruiMG

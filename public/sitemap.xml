@@ -39,7 +39,13 @@
     <loc>http://localhost:1313/playfullabs/posts/feetprints-r-us/</loc>
     <lastmod>2014-10-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/playfullabs/our_story/</loc>
+  </url><url>
     <loc>http://localhost:1313/playfullabs/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/playfullabs/contact_us/</loc>
+  </url><url>
+    <loc>http://localhost:1313/playfullabs/missives/</loc>
   </url><url>
     <loc>http://localhost:1313/playfullabs/tags/</loc>
   </url>
