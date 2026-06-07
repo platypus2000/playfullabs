@@ -17,6 +17,7 @@
 
 /* For the profile image */
 .profile img {
+    all: unset;
     border-radius: 0 !important;
     width: 100% !important;
     height: auto; 
