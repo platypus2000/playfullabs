@@ -15,13 +15,13 @@ params:
     imageHeight: 461 # custom size
     buttons:
       - name: Our Story
-        url: "/playfullabs/our_story/"
+        url: "/our_story/"
       - name: Blog
-        url: "/playfullabs/posts/"
+        url: "/posts/"
       - name: Missives
-        url: "/playfullabs/missives/"
+        url: "/missives/"
       - name: Contact
-        url: "/playfullabs/contact_us/"
+        url: "/contact_us/"
   socialIcons:
     - name: "FaceBook"
       url: "https://www.facebook.com/people/Playfull-Labs/100064814253823/"
